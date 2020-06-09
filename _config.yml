@@ -21,9 +21,9 @@
 title: R there solutions?
 # email: i.gine@pssjd.org
 description: >- # this means to ignore newlines until "baseurl:"
-        Have you found yourself looking for an R problem on the net, since SO to github through R-bloggers
+        Have you found yourself looking for an R problem on the net, from StackOverflow to Github and through R-bloggers,
         without finding any solution? Me, many times. I will post here some of the solutions or ideas I find
-        solving these problems
+        solving these problems.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://iago-pssjd.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
